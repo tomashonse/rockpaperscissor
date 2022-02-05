@@ -1,3 +1,3 @@
-# Rock, papper and scissors game
-Enjoy it :)
+# Rock, paper and scissors game
 
+Enjoy it :)
